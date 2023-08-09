@@ -1,0 +1,24 @@
+/* .main {
+        width: 50%;
+        margin: 0px auto;
+    } */
+li:hover{
+    color: red;
+}
+.active{
+    color: red;
+}
+img{
+    
+    width: fit-content;
+}
+.round{
+    border-radius: 120px;
+    width: fit-content;
+}
+.news-input{
+    width: 50%;
+}
+.fix-this{
+    width: 50%;
+}
